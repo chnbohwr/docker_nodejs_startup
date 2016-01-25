@@ -1,0 +1,24 @@
+{
+  "name": "docker_nodejs_startup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chnbohwr/docker_nodejs_startup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chnbohwr/docker_nodejs_startup/issues"
+  },
+  "homepage": "https://github.com/chnbohwr/docker_nodejs_startup#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
